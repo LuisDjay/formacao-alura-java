@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/psyco/Documents/Documentos - MacBook Air/GitHub/AluraJava/.metadata/.plugins/org.eclipse.jdt.core
+2353178382.index
+1865797976.index
+1811487513.index
