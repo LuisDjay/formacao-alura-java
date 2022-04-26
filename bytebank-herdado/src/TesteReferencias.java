@@ -8,11 +8,11 @@ public class TesteReferencias {
 		g1.setSalario(5000);
 		String nome = g1.getNome();
 		
-		Funcionario f1 = new Funcionario();
-		f1.setSalario(2000);
+//		Funcionario f1 = new Designer();
+//		f1.setSalario(2000);
 		
 		EditorVideo ev = new EditorVideo();
-		f1.setSalario(2500);
+		ev.setSalario(2500);
 		
 		Designer d = new Designer();
 		d.setSalario(2000);
@@ -20,7 +20,7 @@ public class TesteReferencias {
 		
 		ControleBonificacao controle = new ControleBonificacao();
 		controle.registra(g1);
-		controle.registra(f1);
+		//controle.registra(f1);
 		controle.registra(ev);
 		controle.registra(d);
 
